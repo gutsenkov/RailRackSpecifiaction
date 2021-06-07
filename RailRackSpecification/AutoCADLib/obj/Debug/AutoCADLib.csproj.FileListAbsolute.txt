@@ -1,0 +1,6 @@
+C:\Users\Yauheni\Desktop\AutoCADLib\AutoCADLib\bin\Debug\AutoCADLib.dll
+C:\Users\Yauheni\Desktop\AutoCADLib\AutoCADLib\bin\Debug\AutoCADLib.pdb
+C:\Users\Yauheni\Desktop\AutoCADLib\AutoCADLib\obj\Debug\AutoCADLib.csprojAssemblyReference.cache
+C:\Users\Yauheni\Desktop\AutoCADLib\AutoCADLib\obj\Debug\AutoCADLib.csproj.CoreCompileInputs.cache
+C:\Users\Yauheni\Desktop\AutoCADLib\AutoCADLib\obj\Debug\AutoCADLib.dll
+C:\Users\Yauheni\Desktop\AutoCADLib\AutoCADLib\obj\Debug\AutoCADLib.pdb
